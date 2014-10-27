@@ -1,0 +1,1 @@
+This is the model documentation for the System Dynamics model used in the research for the paper **A Quantitative Assessment of Dynamic Intervention-Capacity Effectiveness in the 2014 Ebola Epidemic**.
